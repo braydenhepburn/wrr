@@ -8,6 +8,49 @@ nav a {
     text-decoration: none;
 }
 
+.home-title {
+    font-family: 'Permanent Marker', 'Bradley Hand', 'sans-serif';
+    font-size: 2em;
+}
+
+.msg {
+    background-color: #E9C46A;
+    line-height: 1.5em;
+}
+
+body {
+    background-color: #E9C46A;
+    font-family: 'Teachers', 'Helvetica', 'Arial', 'sans-serif';
+    font-size: 22px;
+    margin: 0;
+    padding: 0;
+}
+h2 {
+    margin: 0;
+}
+
+nav a {
+    text-decoration: none;
+    color: #fcfbfb;
+    text-align: center;
+    padding: 35px;
+}
+
+.book, .join {
+    background-color: #fcfbfb;
+    color: black;
+    text-decoration: none;
+    font-size: 18px;
+    padding: 15px 30px;
+    margin-top: 50px;
+}
+.card-img {
+    border: 10px solid #fcfbfb;
+}
+main section img {
+    box-sizing: border-box;
+}
+
 #hero-msg h1,
 #hero-msg h4 {
     text-align: center;
@@ -30,7 +73,7 @@ header {
     background-color:#E9C46A;
 }
 nav a:hover {
-    background-color: #E9C46A;
+    background-color: #8ECAE6;
     color: #E6E6EA;
 }
 .home-title {

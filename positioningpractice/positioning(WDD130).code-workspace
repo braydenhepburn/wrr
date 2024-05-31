@@ -1,0 +1,13 @@
+{
+	"folders": [
+		{
+			"path": "../../../positioning(WDD130)"
+		},
+		{
+			"path": "."
+		}
+	],
+	"settings": {
+		"liveServer.settings.multiRootWorkspaceName": "positioningpractice"
+	}
+}
